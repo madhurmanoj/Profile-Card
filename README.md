@@ -8,4 +8,4 @@ Easy Integration: The project is built with simplicity in mind, allowing for eas
 Modern Technologies: Utilizes modern web technologies such as HTML and CSS, ensuring compatibility and performance across all modern web browsers.
 
 ![preview-profile-card](https://github.com/madhurmanoj/Tic-Tac-Toe/blob/main/demo.png)
-![preview-contactme-page](https://github.com/madhurmanoj/Tic-Tac-Toe/blob/main/demo.png
+![preview-contactme-page](https://github.com/madhurmanoj/Profile-Card/blob/main/contactme.png)
