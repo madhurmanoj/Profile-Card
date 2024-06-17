@@ -7,5 +7,5 @@ Interactive Elements: Includes interactive elements such as hover effects and cl
 Easy Integration: The project is built with simplicity in mind, allowing for easy integration into existing projects with minimal effort.
 Modern Technologies: Utilizes modern web technologies such as HTML and CSS, ensuring compatibility and performance across all modern web browsers.
 
-![preview-profile-card](https://github.com/madhurmanoj/Tic-Tac-Toe/blob/main/demo.png)
+![preview-profile-card](https://github.com/madhurmanoj/Profile-Card/blob/main/profilecard.png)
 ![preview-contactme-page](https://github.com/madhurmanoj/Profile-Card/blob/main/contactme.png)
